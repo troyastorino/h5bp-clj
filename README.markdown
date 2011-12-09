@@ -1,5 +1,7 @@
 # h5bp-clj
 
+*UNSTABLE BETA*
+
 A quick and dirty Clojure template for HTML5 Boilerplate
 
 ## Usage
